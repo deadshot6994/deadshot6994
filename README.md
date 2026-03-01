@@ -18,7 +18,7 @@
 
 ## About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00D4FF&background=0D1117&multiline=true&width=600&height=200&lines=class+Deadshot6994%3A;++name+%3D+'Karan+Jangir';++role+%3D+'Junior+Cybersecurity+Developer';++languages+%3D+%5B'Python'%2C+'JavaScript'%2C+'Bash'%5D;++stack+%3D+%5B'React'%2C+'Node.js'%2C+'Express'%5D;++interests+%3D+%5B'Ethical+Hacking'%2C+'CTF'%5D;++motto+%3D+'Break+it.+Fix+it.+Bulletproof.'" alt="About Me Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00D4FF&background=0D1117&multiline=true&width=600&height=200&lines=class+Deadshot6994%3A;++name+%3D+'Karan+Jangir';++role+%3D+'Cybersecurity+Developer';++languages+%3D+%5B'Python'%2C+'JavaScript'%2C+'Bash'%5D;++stack+%3D+%5B'React'%2C+'Node.js'%2C+'Express'%5D;++interests+%3D+%5B'Ethical+Hacking'%2C+'CTF'%5D;++motto+%3D+'Break+it.+Fix+it.+Bulletproof.'" alt="About Me Typing" />
 
 
 ---
