@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:00d4ff&height=200&section=header&text=Deadshot6994&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=💀%20Cybersecurity%20%7C%20Full%20Stack%20Dev%20%7C%20Bug%20Hunter&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:00d4ff&height=200&section=header&text=Deadshot6994&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20%7C%20Full%20Stack%20Dev%20%7C%20Bug%20Hunter&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=🔐+Breaking+things+to+fix+them;🕵️+Junior+Cybersecurity+Dev;🐍+Python+%7C+⚛️+React+%7C+🟩+Node.js;🚀+Always+learning%2C+always+hacking!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=Breaking+things+to+fix+them;Junior+Cybersecurity+Dev;Python+%7C+React+%7C+Node.js;Always+learning%2C+always+hacking!" alt="Typing SVG" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 💀 About Me
+## About Me
 
 ```python
 class Deadshot6994:
@@ -71,7 +71,7 @@ print(me.current_mission())
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Deadshot6994&show_icons=true&theme=radical&border_color=ff0080&bg_color=0d1117&title_color=ff0080&icon_color=00d4ff&text_color=ffffff&hide_border=false" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deadshot6994&theme=radical&background=0d1117&border=ff0080&stroke=7928ca&ring=ff0080&fire=00d4ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Deadshot6994&theme=radical&background=0d1117&border=ff0080&stroke=7928ca&ring=ff0080&fire=00d4ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deadshot6994&layout=compact&theme=radical&border_color=ff0080&bg_color=0d1117&title_color=ff0080&text_color=ffffff" width="40%" />
 
@@ -114,7 +114,7 @@ print(me.current_mission())
 <div align="center">
 
 <!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/Deadshot6994/Deadshot6994/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Deadshot6994/Deadshot6994/output/snake.svg" alt="Snake animation" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7928ca,100:ff0080&height=100&section=footer" />
 
