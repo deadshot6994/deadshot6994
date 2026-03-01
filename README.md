@@ -103,9 +103,9 @@ print(me.current_mission())
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Deadshot6994-181717?style=for-the-badge&logo=github)](https://github.com/Deadshot6994)
-[![LinkedIn](https://www.linkedin.com/in/karan-jangir-025500291/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Deadshot6994-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deadshot6994)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan%20Jangir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-jangir-025500291/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
 </div>
 
@@ -113,8 +113,8 @@ print(me.current_mission())
 
 <div align="center">
 
-<!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/Deadshot6994/Deadshot6994/output/snake.svg" alt="Snake animation" />
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deadshot6994&bg_color=0d1117&color=ff0080&line=7928ca&point=00d4ff&area=true&hide_border=false" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7928ca,100:ff0080&height=100&section=footer" />
 
